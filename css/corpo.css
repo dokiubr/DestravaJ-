@@ -30,7 +30,7 @@ b, u, h2 {
 }
 .botao {
   position: absolute;
-  top: 57%; 
+  top: 60%; 
   left: 45%;
 }
 .B1 {
@@ -43,4 +43,5 @@ b, u, h2 {
   cursor: pointer;
 }
 .descontos {
+
   font-weight:300;}
