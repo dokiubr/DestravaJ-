@@ -6,12 +6,12 @@ b, u, h2 {
   text-shadow: 0px 0px 5px #ffffff70;
 }
 .titulo1 {
-  margin: 5%;
+  margin: 5rem;
   padding: 0%;
-  width: 600px;
+  width: 600rem;
   position: absolute;
-  top: 20%; 
-  left: 40%;
+  top: 20rem; 
+  left: 40rem;
   font-size: 15px;
 }
 .info {
@@ -45,3 +45,4 @@ b, u, h2 {
 .descontos {
 
   font-weight:300;}
+
