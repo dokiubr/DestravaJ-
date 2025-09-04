@@ -1,25 +1,24 @@
 b, u, h2 {
   font-weight: 700;
   font-size: 30px;
-  margin: 0%;
-  padding: 0%;
   text-shadow: 0px 0px 5px #ffffff70;
 }
 .titulo1 {
-  margin: 5rem;
-  padding: 0%;
-  width: 600rem;
+  width: 50rem;
   position: absolute;
   top: 20rem; 
-  left: 40rem;
+  left: 65rem;
   font-size: 15px;
 }
 .info {
   font-weight: 200;
 }
 .Img1 {
-  height: 40%;
-  width: 40%;
+  position: absolute;
+  top: 13rem;
+  left: 10rem;
+  height: 50rem;
+  width: 50rem;
 }
 .neonRosa {
   text-shadow: 0px 0px 5px #e4406370;
@@ -30,8 +29,8 @@ b, u, h2 {
 }
 .botao {
   position: absolute;
-  top: 60%; 
-  left: 45%;
+  top: 32rem; 
+  left: 65rem;
 }
 .B1 {
   background-color: #E2264F;
@@ -41,8 +40,10 @@ b, u, h2 {
   border-radius: 5px;
   text-shadow: 0px 0px 5px #ffffff94;
   cursor: pointer;
+  width: 160px;
 }
 .descontos {
-
-  font-weight:300;}
+  margin-top: 10px;
+  font-weight:300;
+}
 
